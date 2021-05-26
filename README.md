@@ -42,5 +42,9 @@
 <img src="https://img.shields.io/badge/-Chai-319795?style=flat-square&logo=chai&logoColor=white" alt="Chai Logo"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adamfigueroa&style=flat-square">
+</p>
+
 
 
